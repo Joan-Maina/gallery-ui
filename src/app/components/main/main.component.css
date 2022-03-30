@@ -1,0 +1,29 @@
+.main{
+    margin-top: 20px;
+    background-color: #063970;
+    padding: 30px;
+    border-radius: 20px;
+}
+.top{
+    display: flex;
+  
+}
+.userimage{
+    width: 150px;
+    border-radius: 50%;
+}
+.name{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.stats{
+    background-color: #0b0a29;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.topfooter,.bottomfooter{
+    display: flex;
+    justify-content: space-evenly;
+}

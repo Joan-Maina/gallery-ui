@@ -1,0 +1,20 @@
+.topnav,.search{
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.light{
+display: flex;}
+.search{
+    background-color: #063970;
+    padding: 10px;
+    border-radius: 15px;
+}
+.searchbtn{
+    background-color:#1e81b0 ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
